@@ -1,6 +1,5 @@
 /*  your css code here. If applicable */
-body{
-	background-color:#f8f8f8;}
+
 
 h1{text-align:center;
 	
@@ -40,3 +39,5 @@ h2{color:#2ecc71;
     border-radius: 10px;
    
 }
+body{
+	background-color:#f8f8f8;}
