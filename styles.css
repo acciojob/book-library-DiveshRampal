@@ -18,7 +18,9 @@ body{
 .p{text-align:right;
    justify-content:right;
 	
+   
 }
+h2{color:#2ecc71;}
 .price {
     background-color: #2ecc71;
     color: white;
