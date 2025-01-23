@@ -1,26 +1,24 @@
 /*  your css code here. If applicable */
 body{
-	background-color:#f8f8f8;
+	background-color:#f8f8f8;}
 
+h1{text-align:center;
 	
 }
 
-}
 .book-library {
     display: flex;
     flex-wrap: wrap;
+	flex-direction:column;
     justify-content: center;
     padding: 20px;
     gap: 20px;
 	background-color:#ffffff;
-	
 }
-.p{text-align:right;
-   justify-content:right;
-	
    
 }
-h2{color:#2ecc71;}
+h2{color:#2ecc71;
+  }
 .price {
     background-color: #2ecc71;
     color: white;
@@ -38,7 +36,7 @@ h2{color:#2ecc71;}
     width: 200px;
     text-align: center;
     padding: 10px;
-    box-shadow: 0 4px 8px rgb(119, 119, 119);
+    box-shadow: 0 4px 8px rgb(0, 0, 0);
     border-radius: 10px;
-    transition: transform 0.3s ease;
+   
 }
