@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f8f8f8;
+}
+.book-library{display:flex;
+			  flex-wrap:wrap;
+			 justify-content: center;
+			  gap:10px;
+	background-color:#ffffff;
+			  justify-items:center;
+			  text-align:left;
+	
+}
+.p{text-align:right;
+   justify-content:right;
+	
+}
+.price {
+    background-color: #2ecc71;
+    color: white;
+    padding: 5px 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
