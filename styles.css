@@ -38,7 +38,7 @@ h2{color:#2ecc71;}
     width: 200px;
     text-align: center;
     padding: 10px;
-    box-shadow: 0 4px 8px #777777;
+    box-shadow: 0 4px 8px rgb(119, 119, 119);
     border-radius: 10px;
     transition: transform 0.3s ease;
 }
