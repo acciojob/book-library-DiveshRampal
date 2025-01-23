@@ -1,14 +1,18 @@
 /*  your css code here. If applicable */
 body{
 	background-color:#f8f8f8;
+
+	
 }
-.book-library{display:flex;
-			  flex-wrap:wrap;
-			 justify-content: center;
-			  gap:10px;
+
+}
+.book-library {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
 	background-color:#ffffff;
-			  justify-items:center;
-			  text-align:left;
 	
 }
 .p{text-align:right;
@@ -24,4 +28,15 @@ body{
     font-weight: bold;
     border-radius: 5px;
 
+}
+
+.book {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: transform 0.3s ease;
 }
